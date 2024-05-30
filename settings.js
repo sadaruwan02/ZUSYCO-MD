@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NUMBER: "94714536529",
+  SUDO_NUMBERS : "94715166712,94714536529",
+  OWNER_NAME: "『@<|| ꜱ ᴀ ᴅ ᴀ ʀ ᴜ ᴡ ᴀ ɴ ᥫ᭡』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -27,30 +27,30 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true ,
+        GOODBYE_MESSAGE : true 
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "Private",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  WORK_MODE_MESSAGE_SEND : true,
+  CAPTION : '©ꜱᴀᴅᴀʀᴜᴡᴀɴ ᴡᴀ ʙᴏᴛ 2024',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true ,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
-        NOT_WORKING : false,
+        NOT_WORKING : true,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
